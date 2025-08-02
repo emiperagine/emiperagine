@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on every project to keep learning
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about everything
